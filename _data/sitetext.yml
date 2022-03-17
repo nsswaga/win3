@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Your gateway to
+    text: The best Filipino Consultants
     button: Tell Me More
     buttonlink: "#services"
 
