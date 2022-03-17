@@ -268,7 +268,7 @@ es: &DEFAULT_ES
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: equipo
     people:
-      - name: "Kay Garland"
+      - name: "Dexter Pontañeles"
         role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
@@ -278,7 +278,7 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "Charlyn Obiso"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
@@ -288,7 +288,18 @@ es: &DEFAULT_ES
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Marloe Uy"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+            
+      - name: "Lars Erik Mobæk"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
