@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Dexter Pontañeles"
         role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Charlyn Obiso"
         role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
