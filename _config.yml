@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "http://nsswaga.github.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/win3" # the subpath of your site, e.g. /blog
+baseurl: "/winin.no" # the subpath of your site, e.g. /blog
 
 title      : Win In Norway
 email      : dexterdexter@gmail.com #this is also the email contact forms will go to
